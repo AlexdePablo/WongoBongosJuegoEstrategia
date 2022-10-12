@@ -1,0 +1,17 @@
+Adicionals:
+
+Pathfinding: els enenimcs i els player utilitzen pathfinding.
+
+Escena extra: Escena de posar nom.
+
+Animacions:Si
+
+Acces a components: sprite renderer, etc.
+
+Interfícies avançades: Administracio i control del nom de jugador a la interficie, 
+menu de pausa, y diferents tipus de UI activables amb set actives.
+ 
+A part, hem implementat un sistema de torns al Game Manager.
+
+Sistema de ranking de tipus arcade al gameover.
+
